@@ -1,0 +1,55 @@
+body {
+	margin: auto 0;
+}
+.zone {
+    /*padding:30px 50px;*/
+    /*cursor:pointer;*/
+    color:#FFF;
+    font-size: 1.2em;
+    border-radius:4px;
+    border:1px solid #bbb;
+    transition: all 0.3s linear;
+}
+
+.red {
+	background: #FF5733
+
+
+}
+a {
+    text-decoration: none;
+    color: #FFF;
+}
+.cover {
+	width: 20rem;
+	border: none;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    
+  
+
+}
+.card {
+	padding: 2rem;
+}
+.buffer {
+	height: 7px;
+}
+.image {
+	height: 70vh;	
+	width: 50vh;
+	margin: 10px;
+	border: black solid 3px 3px;
+	padding: 20px;
+}
+.projets {
+	text-align: center;
+	justify-content: center;
+}
+.f {
+	text-align: center;
+}
